@@ -1,0 +1,10 @@
+Person 1,Relation,Person 2,Gender,Details
+Jonathan,Earliest Ancestor,,M,Lorem Ipsum
+Sara,Spouse,Jonathan,F,Lorem Ipsum
+Henry,Child,Jonathan,M,Lorem Ipsum
+Julie,Child,Jonathan,F,Lorem Ipsum
+William,Child,Jonathan,M,Lorem Ipsum
+Katie,Spouse,Henry,F,Lorem Ipsum
+Kevin,Spouse,Julie,M,Lorem Ipsum
+Laura,Spouse,William,F,Lorem Ipsum
+Betty,Child,Henry,F,Lorem Ipsum
